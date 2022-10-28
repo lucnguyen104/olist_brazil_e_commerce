@@ -21,33 +21,12 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 5. Provide some recommendations and improvements
 
 ## Table of Contents
-- [Prerequisite to use](#prerequisite-to-use)
-  - [Libraries](#libraries)
-  - [Required files](#required-files)
-  - [SQL authorisation](#sql-authorisation)
+
+- [SQL authorisation](#sql-authorisation)
 - [Database Schema](#database-schema)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Contributers](#contributers)
 
-## Prerequisite to use
-### Libraries
-Install the following libraries:
-
-```
-pandas
-pyodbc
-dotenv
-seaborn
-matplotlib
-mpl_toolkits.basemap
-re
-nltk
-sklearn
-google_trans_new
-```
-
-### Required Files
-Install Microsoft ODBC Driver for SQL Server (x64) from [here](https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15#download-for-windows).
 
 ### SQL Authorisation
 Azure SQL Database is used to store the datasets in this project.
