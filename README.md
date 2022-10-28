@@ -47,7 +47,7 @@ The following is the list of the connection parameters:
 ## Database Schema
 The scraped data will be cleaned, transformed, loaded and stored in Azure SQL Database:
 
-![image](https://github.com/NoahPlage/Olist-Business-Analysis/blob/main/img/database-schema.png)
+![image](https://github.com/lucnguyen104/olist_brazil_e_commerce/blob/main/database-schema.png)
 
 ## Power BI Dashboard
 You can find the Dashboard, the project file and the converted version to PDF below:
