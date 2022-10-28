@@ -1,4 +1,3 @@
-# olist_brazil_e_commerce
 Olist-Business-Analysis
 This is a project to analyse on the customers, products and orders of the Brazilian E-commerce giant Olist.
 
@@ -71,5 +70,3 @@ You can find the Dashboard, the project file and the converted version to PDF be
 image
 
 image
-
-Format	Link
