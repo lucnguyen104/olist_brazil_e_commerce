@@ -1,5 +1,5 @@
 # Olist-Business-Analysis
-This is a project to analyse on the customers, products and orders of the Brazilian E-commerce giant Olist.
+This is a project to analyse on the customers, products and orders of the Brazilian E-commerce giant Olist. This project is based on the [dataset provided by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ### Brief
 Olist Store is the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. The Brazilian ecommerce public dataset of orders (from 2016 to 2018) made at Olist Store is provided to your company for analysis.
