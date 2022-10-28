@@ -22,27 +22,8 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 
 ## Table of Contents
 
-- [SQL authorisation](#sql-authorisation)
 - [Database Schema](#database-schema)
 - [Power BI Dashboard](#power-bi-dashboard)
-
-
-### SQL Authorisation
-Azure SQL Database is used to store the datasets in this project.
-
-You will need to insert your database connection parameters and save as `sql-keys.env` local file.
-
-```
-DB_SERVER = "XXXXX"
-DB_NAME = "XXXXX" 
-DB_USERNAME = "XXXXX"
-DB_PASSWORD = XXXXX
-```
-The following is the list of the connection parameters:
-- *DB_SERVER*: database server address e.g., localhost or an IP address.
-- *DB_NAME*: the name of the database that you want to connect.
-- *DB_USERNAME*: the username used to authenticate.
-- *DB_PASSWORD*: password used to authenticate.
 
 ## Database Schema
 The scraped data will be cleaned, transformed, loaded and stored in Azure SQL Database:
