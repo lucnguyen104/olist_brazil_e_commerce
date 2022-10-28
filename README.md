@@ -52,6 +52,6 @@ The scraped data will be cleaned, transformed, loaded and stored in Azure SQL Da
 ## Power BI Dashboard
 You can find the Dashboard, the project file and the converted version to PDF below:
 
-![image](https://github.com/NoahPlage/Olist-Business-Analysis/blob/main/img/powerbi-p1.png)
+![image](https://github.com/lucnguyen104/olist_brazil_e_commerce/blob/main/olist%201.png)
 
 ![image](https://github.com/NoahPlage/Olist-Business-Analysis/blob/main/img/powerbi-p2.png)
