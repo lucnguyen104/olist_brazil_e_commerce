@@ -25,7 +25,6 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 - [SQL authorisation](#sql-authorisation)
 - [Database Schema](#database-schema)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Contributers](#contributers)
 
 
 ### SQL Authorisation
