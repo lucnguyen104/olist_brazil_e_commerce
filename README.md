@@ -9,7 +9,7 @@ Your manager is asking you to critically analyse the provided datasets using Bus
 After a customer purchases the product from Olist Store, a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where they can give a note for the purchase experience and write down some comments.
 
 ### Objective
-1. Create data pipeline to ingest data in PostgreSQL or SQL server database
+1. Create data pipeline to ingest data in SQL server database
 2. Use Power BI to answer following questions:
     - How many customers, orders, and orders per customer does the company have?
     - What is the number of customers by state?
