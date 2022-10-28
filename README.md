@@ -54,4 +54,4 @@ You can find the Dashboard, the project file and the converted version to PDF be
 
 ![image](https://github.com/lucnguyen104/olist_brazil_e_commerce/blob/main/olist%201.png)
 
-![image](https://github.com/NoahPlage/Olist-Business-Analysis/blob/main/img/powerbi-p2.png)
+![image](https://github.com/lucnguyen104/olist_brazil_e_commerce/blob/main/olist%202.png)
